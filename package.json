@@ -1,5 +1,5 @@
 {
-  "name": "storefront_backend",
+  "name": "storefront_backend_mongodb",
   "version": "1.0.0",
   "description": "node project",
   "main": "server.js",
